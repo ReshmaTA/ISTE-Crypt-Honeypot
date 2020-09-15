@@ -2,6 +2,6 @@
 
 ##Web Application based Honeypot
 
-### Snare github.com/mushorg/snare
-### Tanner github.com/mushorg/tanner
+### Snare https://github.com/mushorg/snare
+### Tanner https://github.com/mushorg/tanner
 
