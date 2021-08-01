@@ -7,10 +7,10 @@
 
 Link to the [PPT](https://docs.google.com/presentation/d/1p7lpGpCUIuoZUDBXepnVt5U4LUUkdzXcZtD3thsr8x4/edit?usp=sharing)
 
-### [Dcoumentation]
-tanner/tanner : https://docs.google.com/document/d/14PuPDoDs6HBiQzvOZzXpwyJUxPaK8pifgX_CWeekm3o/edit?usp=sharing 
-tanner/tanner/api : https://docs.google.com/document/d/13sRvcGw5MiHTlUeSK8QJ5UOl9cY4H29xkN2CUq-IPq8/edit?usp=sharing 
-tanner/tanner/tests : https://docs.google.com/document/d/178Oz2kXDJemawPeQ656MtPmiFsfp8AiS8whYWwbOLUg/edit?usp=sharing 
+### [Documentation]
+tanner/tanner : https://docs.google.com/document/d/14PuPDoDs6HBiQzvOZzXpwyJUxPaK8pifgX_CWeekm3o/edit?usp=sharing
+tanner/tanner/api : https://docs.google.com/document/d/13sRvcGw5MiHTlUeSK8QJ5UOl9cY4H29xkN2CUq-IPq8/edit?usp=sharing
+tanner/tanner/tests : https://docs.google.com/document/d/178Oz2kXDJemawPeQ656MtPmiFsfp8AiS8whYWwbOLUg/edit?usp=sharing
 tanner/tanner/emulators : https://docs.google.com/document/d/1x-bARaYM9Znaew7o-9I2eLP0myBCr2h2o78Nux8bdhY/edit?usp=sharing 
 
 ### [Other resources]
